@@ -1,0 +1,2 @@
+# avoids to subscribe the current node_modules created by Dockerfile and if there is a COPY command
+node_modules
